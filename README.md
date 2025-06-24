@@ -20,7 +20,7 @@ A React application built with TypeScript featuring a responsive blog layout and
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/encuba-frontend.git
+git clone https://github.com/and27/encuba-frontend.git
 cd encuba-frontend
 npm install
 npm start
@@ -50,4 +50,3 @@ src/
 - `/blog` - Responsive blog with categories
 - `/shopping` - Shopping cart demo
 
-The application demonstrates modern React patterns, responsive design, and clean code architecture.
